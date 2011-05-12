@@ -46,6 +46,10 @@ p.footer {
   font-size: 12px;
 }
 
+img {
+  margin-bottom: 32px;
+}
+
 a:visited, a:link, a:hover {
   color: #777777;
 }
